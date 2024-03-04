@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Hey 👋, This is Jonathan Le
+[![Gmail Badge](https://img.shields.io/badge/-jl.usna09@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jl.usna09@gmail.com)](mailto:jl.usna09@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-jonathanjle-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanjle/)](https://www.linkedin.com/in/jonathanjle/) <p align='left'>Student Records and Degree Specialist with over 8 years of experience in higher education. Likes to research and find creative solutions to problems. Loves all things smoking and BBQ. Plays guitar and drums.</p>
 <!--
 **Jester380/Jester380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
